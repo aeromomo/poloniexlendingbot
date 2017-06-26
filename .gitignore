@@ -6,5 +6,5 @@ error.log
 *.idea
 *.csv
 *.sqlite3
-
+default.cfg
 docs/_build/
